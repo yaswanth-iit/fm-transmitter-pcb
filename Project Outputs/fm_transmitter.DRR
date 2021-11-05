@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: fm_transmitter.PcbDoc   11/5/2021  9:30:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer (Signal) to Bottom Layer (GND)
+ASCII RoundHoles File : fm_transmitter.TXT
+EIA File   : fm_transmitter.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             112       PTH        0.00mm (0.00inch)
+T2      0.4mm (16mil)                                             Round             7         PTH        0.00mm (0.00inch)
+T3      0.9mm (35mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T4      1mm (39mil)                                               Round             1         PTH        0.00mm (0.00inch)
+T5      3mm (118mil)                                              Round             4         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              126
+
+Total Processing Time (hh:mm:ss) : 00:00:01

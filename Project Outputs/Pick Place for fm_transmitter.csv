@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations,,,,,,
+========================================================================================================================,,,,,,
+File Design Information:,,,,,,
+,,,,,,
+Units used: mm,,,,,,
+,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation
+MH4,Mounting Hole,TopLayer,MOUNTING,56.2500mm,3.7172mm,0
+MH3,Mounting Hole,TopLayer,MOUNTING,3.7500mm,3.7500mm,0
+MH2,Mounting Hole,TopLayer,MOUNTING,56.0000mm,31.0000mm,0
+MH1,Mounting Hole,TopLayer,MOUNTING,3.7500mm,31.2500mm,0
+R12,1K,TopLayer,RES_0805,49.7249mm,5.1499mm,180
+R11,1K,TopLayer,RES_0805,48.7751mm,8.4249mm,270
+R10,1K,TopLayer,RES_0805,48.7421mm,13.4769mm,270
+R9,330,TopLayer,RES_0805,38.9500mm,4.0000mm,180
+R8,4.7K,TopLayer,RES_0805,39.4999mm,28.5001mm,90
+R7,20K,TopLayer,RES_0805,28.4999mm,11.7501mm,90
+R6,168K,TopLayer,RES_0805,24.9999mm,10.7499mm,180
+R5,100K,TopLayer,RES_0805,18.5886mm,18.8361mm,90
+R4,100K,TopLayer,RES_0805,23.0087mm,16.4542mm,90
+R3,20K,TopLayer,RES_0805,21.8398mm,13.1209mm,180
+R2,2K,TopLayer,RES_0805,19.6808mm,15.5906mm,180
+R1,2K,TopLayer,RES_0805,16.4751mm,14.5999mm,270
+POT2,10k ohm,TopLayer,POT_3361P_SMD,33.9000mm,25.4500mm,180
+POT1,10k ohm,TopLayer,POT_3361P_SMD,33.6876mm,13.8000mm,180
+MK1,Microphone,TopLayer,PIN2,14.7700mm,5.5000mm,360
+LED1,GREEN,TopLayer,LED-0603,49.7500mm,3.0000mm,360
+L1,390nH,TopLayer,IND_0805,40.1749mm,13.2251mm,90
+J1,USB MICRO-B,TopLayer,CON_10118192-0001LF_SMD,56.0000mm,12.2500mm,90
+IC2,MAX2606,TopLayer,MAXIM_SOT-23-6,43.8750mm,10.9500mm,0
+IC1,MAX4467,TopLayer,TI_SOT-23-8_DDF,26.7000mm,16.9000mm,270
+C8,2.2nF,TopLayer,CAP_0805,45.3129mm,14.4222mm,180
+C7,2.2nF,TopLayer,CAP_0805,40.1268mm,9.0711mm,90
+C6,1uF,TopLayer,ACAP_P339_D393_H531_RAD,47.0000mm,27.0000mm,90
+C5,470nF,TopLayer,CAP_0805,34.7002mm,4.0002mm,360
+C4,10uF,TopLayer,ACAP_P339_D393_H531_RAD,20.5000mm,27.4988mm,180
+C3,47nF,TopLayer,CAP_0805,20.7986mm,18.8359mm,270
+C2,10uF,TopLayer,ACAP_P339_D393_H531_RAD,7.7250mm,16.4000mm,180
+C1,100nF,TopLayer,CAP_0805,19.7501mm,10.7501mm,360
+A1,Wire Antenna,TopLayer,TEST_POINT_78,44.4250mm,17.7500mm,180
